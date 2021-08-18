@@ -7,5 +7,3 @@
 
 
 <a href="https://storyset.com/internet" target="_blank">Internet illustrations by Storyset</a>
-
-<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
