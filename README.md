@@ -6,4 +6,4 @@
 <img height="450" width="600" src="https://github.com/herculanosilva/login-and-register-responsive/blob/main/assets/img/register-desktop.png">
 
 
-<a href="https://storyset.com/internet">Internet illustrations by Storyset</a>
+<a href="https://storyset.com/internet" target="_blank">Internet illustrations by Storyset</a>
